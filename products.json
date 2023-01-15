@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Macbook pro",
+        "price": 4800,
+        "id": "1b2b039e-6d10-4fd2-a903-2d93f8b3ee01"
+    },
+    {
+        "name": "Dell G15 i5",
+        "price": 4974.9,
+        "id": "c68499ec-8ddb-4a41-8b12-fdd5f8191a64"
+        
+    }
+]
